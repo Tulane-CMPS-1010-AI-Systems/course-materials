@@ -5,11 +5,11 @@ Main repository for the AI Systems course at Tulane University
 - [Getting Started guide](GettingStarted.md)
 
   
-## Weekly Lectures and Labs
+## Schedule
 
 [apm: assume they are under revision until the day they are introduced in class ;)]
 
-| Week | Topic                                | Lecture                                                                                                                                       | Lab                                                                                                                               |
+| Day | Topic                                | Lecture                                                                                                                                       | Lab                                                                                                                               |
 | ---- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Introduction & Setup                 | [Intro Lecture](https://colab.research.google.com/github/Tulane-CMPS-1010-AI-Systems/course-materials/blob/main/lectures/01-intro_lecture.ipynb)             | [Intro Lab](https://colab.research.google.com/github/Tulane-CMPS-1010-AI-Systems/course-materials/blob/main/labs/01-intro_lab.ipynb)             |
 | 2    | How LLMs Work                        | [Probability Lecture](https://colab.research.google.com/github/Tulane-CMPS-1010-AI-Systems/course-materials/blob/main/lectures/02-probability_lecture.ipynb) | [Probability Lab](https://colab.research.google.com/github/Tulane-CMPS-1010-AI-Systems/course-materials/blob/main/labs/02-probability_lab.ipynb) |
