@@ -32,7 +32,7 @@ That means you don’t need to install anything on your computer.
 
 4. At the top of the notebook preview, click the **Open in Colab** badge:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tulane-intro-ai-engineering/main/blob/main/labs/intro_lab.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tulane-CMPS-1010-AI-Systems/course-materials/blob/main/labs/01-intro_lab.ipynb)
 
 5. Once the notebook opens in Colab, click  
    **File → Save a copy in Drive**  
@@ -150,6 +150,6 @@ If something isn’t working in Colab:
 
 You now have everything you need to begin your journey into AI engineering.  
 Start with your first lecture notebook:  
-👉 [`lectures/intro_lecture.ipynb`](https://colab.research.google.com/github/tulane-intro-ai-engineering/main/blob/main/lectures/intro_lecture.ipynb)  
+👉 [`lectures/intro_lecture.ipynb`](https://colab.research.google.com/github/Tulane-CMPS-1010-AI-Systems/course-materials/blob/main/lectures/01-intro_lecture.ipynb)  
 
 Click the **Open in Colab** badge, **Save a copy in Drive**, run the setup cell — and you’re ready to build your first generative AI system!
