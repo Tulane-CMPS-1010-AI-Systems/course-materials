@@ -86,7 +86,7 @@ Your final project must:
 
 **Note:** The exact due dates will be posted in the syllabus/LMS. Here is the structure:
 
-### PM1 – Project Proposal (Day 2)
+### PM1 – Project Proposal (Day 3)
 
 **Deliverable (~1 page, markdown or PDF):**
 
