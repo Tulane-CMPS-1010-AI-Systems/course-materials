@@ -1,4 +1,4 @@
-# Course Project – Intro to AI Engineering  
+# Course Project – AI Systems 
 
 **Semester-Long Team Project**
 
