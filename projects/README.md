@@ -19,7 +19,7 @@ You’ll reach this through **four milestones**:
 1. PM1 – Project Proposal  
 2. PM2 – MVP Prototype  
 3. PM3 – GenAI Ops Experiment  
-4. PM4 – Final System & Report (plus presentation)
+4. PM4 – Final System & Presentation
 
 ---
 
@@ -77,7 +77,7 @@ Your final project must:
 
 6. Produce final **deliverables**:
    - Working Colab + Gradio app
-   - Final written report
+   - Final project write-up
    - In-class presentation/demo
 
 ---
@@ -89,6 +89,8 @@ Your final project must:
 ### PM1 – Project Proposal (Day 3)
 
 **Deliverable (~1 page, markdown or PDF):**
+
+This is the start of your project write-up which will be one of your final deliverables.
 
 - **Team members** (1-2 students; grad students are solo)
 - **Title** (tentative is fine)
@@ -124,6 +126,15 @@ Include a short markdown cell in the notebook:
 - **What works right now?**
 - **One obvious failure mode** you have already observed.
 
+Update your **Write-up** to include a System Overview along with brief descriptions of your System Components:
+
+- System Overview**
+  - High-level description.
+  - Diagram: your system mapped onto the course’s **unifying system diagram** (User → Prompt → … → Output).
+- Components**
+  - RAG, agents/tool use, or both.
+  - Describe their purpose in your project.
+
 ---
 
 ### PM3 – GenAI Ops Experiment (Day 9)
@@ -152,7 +163,6 @@ You will run **three small experiments** on your system using the scientific pro
 4. **Measurement (metrics)**  
    - Choose at least **one metric**, for example:
      - % of answers judged correct  
-     - precision/recall for retrieval  
      - fraction of responses that violate a safety rule  
      - average user rating on a 1–5 scale
 
@@ -161,14 +171,13 @@ You will run **three small experiments** on your system using the scientific pro
      - Did the metric change in the way you predicted?
      - If not, why do you think that is?
 
-You will include:
+Include a section in your notebook where you run this experiment.
 
-- A section in your notebook where you run this experiment.
-- A short written summary of your experiments in your project report draft or a separate markdown cell.
+Add to your **Write-up** a section containing descriptions of your experiements. For each experiment, state your question, hypothesis, experimental design, metric, results, and interpretation.
 
 ---
 
-### PM4 – Final System, Report, & Presentation (Day 10)
+### PM4 – Final System, Write-up, and Presentation (Day 10)
 
 **Final deliverables:**
 
@@ -182,7 +191,7 @@ You will include:
      - Any guardrails or trust mechanisms
    - It should be reasonably robust for a live demo.
 
-2. **Final report (1-2 pages or equivalent markdown/slides)**  
+2. **Final Write-up (2-3 pages or equivalent markdown/slides)**  
    Recommended structure:
 
    - **1. Introduction**
@@ -193,7 +202,6 @@ You will include:
    - **3. Components**
      - RAG, agents/tool use, or both.
      - Guardrails / safety checks.
-     - Any monitoring / logging.
    - **4. GenAI Ops Experiment(s)**
      - PM3 experiment (and any follow-ups).
      - Question, hypothesis, experimental design, metric, results, and interpretation.
